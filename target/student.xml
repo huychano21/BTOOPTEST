@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Student>
+    <student>
+        <address>brdberb</address>
+        <dob>22/04/2003</dob>
+        <gender>Nam</gender>
+        <ID>grger</ID>
+        <limitedCredit>14</limitedCredit>
+        <major>Phản gián</major>
+        <name>beanetsns</name>
+        <registedCredit>4</registedCredit>
+        <subject>
+            <amount>25</amount>
+            <credit>2</credit>
+            <exam>Tiểu luận</exam>
+            <IDclass>TTHCM0</IDclass>
+            <name>Tư tưởng Hồ Chí Minh</name>
+            <registedStudent>1</registedStudent>
+            <teacher>Dỗ duy anh</teacher>
+            <typeClass>Lý thuyết</typeClass>
+        </subject>
+        <subject>
+            <amount>25</amount>
+            <credit>2</credit>
+            <exam>Thực hành</exam>
+            <IDclass>MMT2</IDclass>
+            <name>Mạng máy tính</name>
+            <registedStudent>3</registedStudent>
+            <teacher>Lưu Xuân Văn</teacher>
+            <typeClass>Thực hành</typeClass>
+        </subject>
+        <term>Kỳ IV</term>
+    </student>
+    <student>
+        <address>brdhr</address>
+        <dob>16/04/2005</dob>
+        <gender>Nam</gender>
+        <ID>hrdhrdh</ID>
+        <limitedCredit>14</limitedCredit>
+        <major>Phản gián</major>
+        <name>trần văn quang khải</name>
+        <registedCredit>0</registedCredit>
+        <term>Kỳ III</term>
+    </student>
+    <student>
+        <address>brdberb</address>
+        <dob>22/04/2003</dob>
+        <gender>Nam</gender>
+        <ID>bdfnbdgn</ID>
+        <limitedCredit>14</limitedCredit>
+        <major>Phản gián</major>
+        <name>beanetsns</name>
+        <registedCredit>10</registedCredit>
+        <subject>
+            <amount>1</amount>
+            <credit>10</credit>
+            <exam>Tiểu luận</exam>
+            <IDclass>nfdngfn</IDclass>
+            <name>nfgnfg</name>
+            <registedStudent>1</registedStudent>
+            <teacher>ngfngfn</teacher>
+            <typeClass>Thực hành</typeClass>
+        </subject>
+        <term>Kỳ IV</term>
+    </student>
+    <student>
+        <address>gvwrbgreg</address>
+        <dob>24/04/2001</dob>
+        <gender>Nam</gender>
+        <ID>bdf bfdbfd</ID>
+        <limitedCredit>14</limitedCredit>
+        <major>Phản gián</major>
+        <name>bfdbfdb</name>
+        <registedCredit>2</registedCredit>
+        <subject>
+            <amount>25</amount>
+            <credit>2</credit>
+            <exam>Tiểu luận</exam>
+            <IDclass>TTHCM0</IDclass>
+            <name>Tư tưởng Hồ Chí Minh</name>
+            <registedStudent>2</registedStudent>
+            <teacher>Dỗ duy anh</teacher>
+            <typeClass>Lý thuyết</typeClass>
+        </subject>
+        <term>Kỳ V</term>
+    </student>
+    <student>
+        <address>gc ngf</address>
+        <dob>20/04/2004</dob>
+        <gender>Nam</gender>
+        <ID>bndgngf</ID>
+        <limitedCredit>14</limitedCredit>
+        <major>Phản gián</major>
+        <name>ndngdn</name>
+        <registedCredit>0</registedCredit>
+        <term>Kỳ III</term>
+    </student>
+</Student>

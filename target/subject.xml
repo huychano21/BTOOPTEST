@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<subjects>
+    <subject>
+        <amount>25</amount>
+        <credit>2</credit>
+        <exam>Thực hành</exam>
+        <IDclass>MMT2</IDclass>
+        <name>Mạng máy tính</name>
+        <registedStudent>3</registedStudent>
+        <teacher>Lưu Xuân Văn</teacher>
+        <typeClass>Thực hành</typeClass>
+    </subject>
+    <subject>
+        <amount>25</amount>
+        <credit>2</credit>
+        <exam>Tiểu luận</exam>
+        <IDclass>TTHCM0</IDclass>
+        <name>Tư tưởng Hồ Chí Minh</name>
+        <registedStudent>2</registedStudent>
+        <teacher>Dỗ duy anh</teacher>
+        <typeClass>Lý thuyết</typeClass>
+    </subject>
+    <subject>
+        <amount>25</amount>
+        <credit>2</credit>
+        <exam>Kết hợp</exam>
+        <IDclass>TTHCM1</IDclass>
+        <name>Tư tưởng Hồ Chí Minh</name>
+        <registedStudent>2</registedStudent>
+        <teacher>Bùi Thu Thủy</teacher>
+        <typeClass>Lý thuyết</typeClass>
+    </subject>
+    <subject>
+        <amount>25</amount>
+        <credit>2</credit>
+        <exam>Tự luận</exam>
+        <IDclass>TTHCM2</IDclass>
+        <name>Tư tưởng Hồ Chí Minh</name>
+        <registedStudent>0</registedStudent>
+        <teacher>Mai Văn Túc</teacher>
+        <typeClass>Lý thuyết</typeClass>
+    </subject>
+    <subject>
+        <amount>9</amount>
+        <credit>4</credit>
+        <exam>Tự luận</exam>
+        <IDclass>vsbs</IDclass>
+        <name>bsdbs</name>
+        <registedStudent>1</registedStudent>
+        <teacher>váedvbed</teacher>
+        <typeClass>Lý thuyết</typeClass>
+    </subject>
+    <subject>
+        <amount>35</amount>
+        <credit>5</credit>
+        <exam>Tiểu luận</exam>
+        <IDclass>bdfbd</IDclass>
+        <name>dbndbn</name>
+        <registedStudent>0</registedStudent>
+        <teacher>bfdndgn</teacher>
+        <typeClass>Lý thuyết</typeClass>
+    </subject>
+    <subject>
+        <amount>27</amount>
+        <credit>4</credit>
+        <exam>Tiểu luận</exam>
+        <IDclass>rưerwer</IDclass>
+        <name>ểwrewt</name>
+        <registedStudent>0</registedStudent>
+        <teacher>rewrewr</teacher>
+        <typeClass>Thực hành</typeClass>
+    </subject>
+    <subject>
+        <amount>1</amount>
+        <credit>10</credit>
+        <exam>Tiểu luận</exam>
+        <IDclass>nfdngfn</IDclass>
+        <name>nfgnfg</name>
+        <registedStudent>1</registedStudent>
+        <teacher>ngfngfn</teacher>
+        <typeClass>Thực hành</typeClass>
+    </subject>
+</subjects>
